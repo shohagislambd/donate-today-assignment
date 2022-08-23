@@ -135,6 +135,8 @@ p{
     display: flex;
     gap: 25px;
     margin:50px;
+    background-color: #fafafa;
+    padding: 30px;
 }
 .depend-image img{
     border-radius: 5px;
